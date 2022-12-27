@@ -1,0 +1,14 @@
+{
+  "name": "learn-nuxt3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nuxi dev",
+    "generate:test": "nuxi generate"
+  },
+  "dependencies": {
+    "element-plus": "^2.1.10",
+    "nuxt": "npm:nuxt3@latest"
+  }
+}
